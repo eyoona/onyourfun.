@@ -127,6 +127,7 @@ body {
 .social-menu i {
   padding-left: 15px;
   padding-right: 15px;
+  text-algin: center;
 }
 @media screen and (min-width: 320px) and (max-width: 1200px) {
   .banner-text {
